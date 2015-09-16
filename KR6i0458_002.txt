@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:01.510920
+#+DATE: 2015-08-30 20:20:04.924103
 #+TITLE: 佛說法集經
 #+PROPERTY: CBETA_ID T17n0761
 #+PROPERTY: ID KR6i0458
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 761
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0458_T_002-0615c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說法集經》卷第二¶
+《佛說法集經》卷第二¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
