@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:01.538925
+#+DATE: 2015-08-30 20:20:05.826704
 #+TITLE: 佛說法集經
 #+PROPERTY: CBETA_ID T17n0761
 #+PROPERTY: ID KR6i0458
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 761
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0458_T_003-0621b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說法集經》卷第三¶
+《佛說法集經》卷第三¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -337,7 +336,7 @@
 遮華、陀羅華、摩訶陀羅華、瞻婆華、修摩那¶
 華、優波羅華、鉢頭摩華，如是等種種諸華¶
 如雲雨下供養菩薩。彼諸魔眾所有種種麁¶
-獷言語聞者驚怖，如是等聲以是菩薩功¶
+鑛言語聞者驚怖，如是等聲以是菩薩功¶
 德力故，即時變成種種讚歎微妙音聲。是時¶
 菩薩於彼諸魔種種麁惡六塵境界，以是菩¶
 薩功德力故，彼惡境界即滅不現。是時菩薩
