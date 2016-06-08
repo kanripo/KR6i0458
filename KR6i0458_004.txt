@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:39
+#+DATE: 2016-06-08 9:40
 #+TITLE: 佛說法集經
 #+PROPERTY: CBETA_ID T17n0761
 #+PROPERTY: ID KR6i0458
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 761
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0458_T_004-0628b> 
 #+PROPERTY: JUAN 4
 ¶
@@ -420,7 +420,7 @@
 子！菩薩摩訶薩有三種捨，謂捨、大捨、增上¶
 捨。
 
-「何者是菩薩摩訶薩捨？謂飲食、穀米、倉¶
+「何者是菩薩摩訶薩捨？謂飲食、[穀-(一/禾)+釆]米、倉¶
 庫、衣服、騎乘、燈明、香熏、華鬘、塗香、末香、幡蓋、幢¶
 帳、車輿、瓔珞帳、首冠、金銀珍寶，諸如是等¶
 不為惱害眾生之具，唯除能害眾生之事，
