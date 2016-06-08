@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:02.766548
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:40
 #+TITLE: 佛說法集經
 #+PROPERTY: CBETA_ID T17n0761
 #+PROPERTY: ID KR6i0458
